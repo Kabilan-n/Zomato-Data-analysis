@@ -40,6 +40,6 @@ Demo Link - https://drive.google.com/file/d/1scwS5V8fc-ogCTVg1k_cD6TegDqRRPG5/vi
 12. Best rated hotels
 
 ## Recomendation system 
-we also build a recommentation system to give the list of hotels that ate similar to out input. For example, if a user need to find a hotel in the Bangaluru location similar to hotel Sultan's Briyani, the system recommond hotels like Ambur Briyani Classic, Pot Biryani, Pallavi Restaurent, etc.. Along with the hotel rating and cost per two peoples. 
+we also build a recommentation system to give the list of hotels that ate similar to our input. For example, if a user need to find a hotel in the Bangaluru location similar to hotel Sultan's Briyani, the system recommond hotels like Ambur Briyani Classic, Pot Biryani, Pallavi Restaurent, etc.. Along with the hotel rating and cost per two peoples. 
 
 This recomendation was based upon Available cuisines, Mean Rating, Cost and Customer reviews.
